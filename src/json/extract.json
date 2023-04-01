@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Rendimentos",
+    "image": "images/ellipsegreen.png",
+    "date": "22/04/2022",
+    "time": "13:23:47",
+    "value": "+100,95",
+    "type": "rentability",
+    "classification": "entrance",
+    "classification_all": "all"
+  },
+  {
+    "title": "Rendimentos",
+    "image": "images/ellipsegreen.png",
+    "date": "21/04/2022",
+    "time": "13:23:47",
+    "value": "+23,99",
+    "type": "rentability",
+    "classification": "entrance",
+    "classification_all": "all"
+  },
+  {
+    "title": "Saque",
+    "image": "images/ellipsegreen.png",
+    "date": "20/04/2022",
+    "time": "13:23:47",
+    "value": "-23,99",
+    "type": "withdraw",
+    "classification": "exit",
+    "classification_all": "all"
+  },
+  {
+    "title": "Saque",
+    "image": "images/ellipsegreen.png",
+    "date": "19/04/2022",
+    "time": "13:23:47",
+    "value": "-29,99",
+    "type": "withdraw",
+    "classification": "exit",
+    "classification_all": "all"
+  }
+]

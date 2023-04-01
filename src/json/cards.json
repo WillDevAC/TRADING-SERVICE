@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Meu perfil",
+    "icon": "/icons/profile.svg",
+    "description": "Clique aqui para acessar.",
+    "href": "/profile"
+  },
+  {
+    "title": "Adicionar fundos",
+    "icon": "/icons/addfounds.svg",
+    "description": "Clique aqui para acessar.",
+    "href": "/addfounds"
+  },
+  {
+    "title": "Saque",
+    "icon": "/icons/withdraw.svg",
+    "description": "Clique aqui para acessar.",
+    "href": "/withdraw"
+  },
+  {
+    "title": "Extrato",
+    "icon": "/icons/extract.svg",
+    "description": "Clique aqui para acessar.",
+    "href": "/extract"
+  }
+]
